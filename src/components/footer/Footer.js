@@ -37,21 +37,21 @@ const Footer = () => {
 
       <div className="footer__socials">
         <a
-          href="https://facebook.com/abdelmounaim.makhloufi"
+          href="https://www.facebook.com/abdelmounaim.makhloufi"
           target="_blank"
           rel="noreferrer"
         >
           <FaFacebookF />
         </a>
         <a
-          href="https://instagram.com/hassan_makhloufi_1"
+          href="https://wwww.instagram.com/hassan_makhloufi_1"
           target="_blank"
           rel="noreferrer"
         >
           <FiInstagram />
         </a>
         <a
-          href="https://twitter.com/HassanM95081945"
+          href="https://www.twitter.com/HassanM95081945"
           target="_blank"
           rel="noreferrer"
         >
