@@ -33,7 +33,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="https://proshop-hassan.herokuapp.com/"
+              href="https://brave-lapel-mite.cyclic.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
