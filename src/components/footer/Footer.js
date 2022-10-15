@@ -44,7 +44,7 @@ const Footer = () => {
           <FaFacebookF />
         </a>
         <a
-          href="https://wwww.instagram.com/hassan_makhloufi_1"
+          href="https://www.instagram.com/hassan_makhloufi_1"
           target="_blank"
           rel="noreferrer"
         >
